@@ -8,6 +8,8 @@
 }
 .hero__img {
   max-width: 850px;
+  height: 100%;
+  max-height: 525px;
 }
 .hero__title {
   top: 195px;
